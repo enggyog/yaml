@@ -1,11 +1,11 @@
 json:
 
   - https://raw.githubusercontent.com/aavail/ai-workflow-capstone/master/cs-train/invoices-2017-11.json
-  - football
-  - basketball
-  - cricket
-  - hockey
-  - table tennis
+  - https://raw.githubusercontent.com/aavail/ai-workflow-capstone/master/cs-train/invoices-2017-11.json
+  - https://raw.githubusercontent.com/aavail/ai-workflow-capstone/master/cs-train/invoices-2017-11.json
+  - https://raw.githubusercontent.com/aavail/ai-workflow-capstone/master/cs-train/invoices-2017-11.json
+  - https://raw.githubusercontent.com/aavail/ai-workflow-capstone/master/cs-train/invoices-2017-11.json
+  - https://raw.githubusercontent.com/aavail/ai-workflow-capstone/master/cs-train/invoices-2017-11.json
 
 countries:
 
